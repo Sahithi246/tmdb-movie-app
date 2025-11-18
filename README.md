@@ -88,6 +88,8 @@ Show watchlist vs favorites separately
 
 Add skeleton UI for loading states
 
+**Screenshot for video not embeeded correctly using WebView**
+
 <img width="500" height="1100" alt="Simulator Screenshot - iPhone 16 Pro - 2025-11-17 at 19 54 58" src="https://github.com/user-attachments/assets/17b4ba73-717f-4b45-8275-73f5bcaa38fc" />
 
 
